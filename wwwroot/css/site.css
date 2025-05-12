@@ -1,0 +1,55 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+.applicantTable table {
+    width: 100%;
+}
+
+.applicantTable thead {
+    width: calc(100% - 1em);
+}
+
+.applicantTable tbody {
+    display: block;
+    height: 140px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+    .applicantTable thead,
+    .applicantTable tbody tr {
+        display: table;
+        width: 97%;
+        table-layout: fixed;
+    }
+
+.applicantTable thead,
+.applicantTable tbody,
+.applicantTable td {
+    border: none !important;
+}
+
+.YearsWorked {
+    background-image: none;
+}
