@@ -17,5 +17,20 @@ This is a dynamic Master-Detail CRUD application built using ASP.NET Core 8 MVC 
 - Bootstrap 5
 - Visual Studio 2022
 
+## Page View
+#### Home Page
+![Home Page](screenshots/rm_home.png)
+
+#### List of Apllicants
+![Books Page](screenshots/applicants.png)
+
+
+#### Edit, Update and Delete Applicants Page
+![Create Book](screenshots/rm_create.png)
+
+![Updaet Book ](screenshots/rm_edit.png)
+
+![Delete Book](screenshots/rm_delete.png)
+
 ## Reference
 https://youtu.be/MoLaynKMOoc?si=24uShwpMYKo96C1H
