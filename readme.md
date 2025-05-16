@@ -21,7 +21,7 @@ This is a dynamic Master-Detail CRUD application built using ASP.NET Core 8 MVC 
 #### Home Page
 ![Home Page](screenshots/rm_home.png)
 
-#### List of Apllicants
+#### List of Apllicants Page
 ![Books Page](screenshots/applicants.png)
 
 
