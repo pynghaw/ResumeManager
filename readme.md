@@ -6,8 +6,7 @@ This is a dynamic Master-Detail CRUD application built using ASP.NET 8 MVC and E
 ✅ Create and save master-detail records together efficiently  
 ✅ Client-side jQuery validation for the detail grid  
 ✅ View a list of all master records  
-✅ Read and delete functionality for master-detail records  
-✅ Edit functionality to be added in the next version  
+✅ Read, edit and delete functionality for master-detail records  
 
 ## Technologies Used
 - ASP.NET 8 MVC
