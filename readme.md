@@ -10,7 +10,7 @@ This is a dynamic Master-Detail CRUD application built using ASP.NET 8 MVC and E
 ✅ Edit functionality to be added in the next version  
 
 ## Technologies Used
-- ASP.NET Core 8 MVC
+- ASP.NET 8 MVC
 - Entity Framework Core
 - SQL Server
 - jQuery & JavaScript
